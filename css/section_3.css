@@ -1,0 +1,33 @@
+.section_2{
+	margin-bottom: 57px;
+}
+
+.contant_text h2{
+	color: #42669e;
+	font-weight: bolder;
+}
+
+.contant_text p{
+	font-size: 13px;
+	line-height: 20px;
+}
+
+.contant_text h6{
+	color: #42669e;
+	font-size: 19px;
+}
+
+.text i{
+	color: #42669e;
+	font-size: 27px;
+	line-height: 23px;
+}
+
+.doctor_img img{
+	width: 93%;
+}
+
+.main_section_2{
+	display: flex;
+	justify-content: space-between;
+}
